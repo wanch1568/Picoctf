@@ -1,0 +1,6 @@
+サーバーにsshで接続して指定のパスワードを入力
+接続後は
+/home/ctf-player/drop-in
+/
+/home/ctf-player
+の3つのディレクトリ内にflagが分割されておかれている

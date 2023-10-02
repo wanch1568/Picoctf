@@ -1,0 +1,1 @@
+print("picoCTF{"+str(int("3d",16))+"}")

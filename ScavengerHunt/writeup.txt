@@ -1,0 +1,1 @@
+HTML,CSS,js,robots.txt,.htaccess,.DS_Storeにflagの断片が隠されている

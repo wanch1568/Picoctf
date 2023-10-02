@@ -1,0 +1,2 @@
+配布のpcapファイルを開いてAnalyze→Follow→TCP stream
+ROT13で暗号化されたフラグが見つかるので復号
